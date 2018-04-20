@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="VisionMC-TestBuild" />
+      <artifact name="VisionMC-v0.1-INIT" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
@@ -66,6 +66,9 @@
       <dir>C:\Users\Nathan\.gradle\caches\minecraft\net\minecraftforge\forge\1.12.2-14.23.2.2654\snapshot\20171003\forgeSrc-1.12.2-14.23.2.2654.jar!\net\minecraftforge\event</dir>
       <dir>C:\Users\Nathan\.gradle\caches\minecraft\net\minecraftforge\forge\1.12.2-14.23.2.2654\snapshot\20171003\forgeSrc-1.12.2-14.23.2.2654.jar!\net</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -662,11 +665,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="x" value="-38" />
+    <option name="y" value="29" />
+    <option name="width" value="1370" />
+    <option name="height" value="772" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -681,6 +685,62 @@
               <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
               <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apes" type="462c0819:PsiDirectoryNode" />
+              <item name="nathan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apes" type="462c0819:PsiDirectoryNode" />
+              <item name="nathan" type="462c0819:PsiDirectoryNode" />
+              <item name="vmc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftRetro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftRetro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apes" type="462c0819:PsiDirectoryNode" />
+              <item name="nathan" type="462c0819:PsiDirectoryNode" />
+              <item name="vmc" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -689,7 +749,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/artifacts" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/CodingProjects/CurrentProjects/BuildTools" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15703125" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -931,21 +991,22 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49707174" weight="0.32843137" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50292826" side_tool="true" weight="0.32913387" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" weight="0.329653" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329653" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32843137" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3245083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3245083" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.35130718" />
       <window_info anchor="right" id="Gradle" order="8" weight="0.14145234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39905363" />
@@ -957,11 +1018,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49707174" weight="0.32843137" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/apes/nathan/vmc/main/VisionMC.java">
@@ -1317,7 +1381,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>VisionMC-TestBuild</last-edited>
+          <last-edited>VisionMC-v0.1-INIT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1330,7 +1394,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1390,7 +1454,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Gradle: ca.weblite:java-objc-bridge:1.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
